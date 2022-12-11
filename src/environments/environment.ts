@@ -30,7 +30,6 @@ export const environment = {
     appId: "1:124449510058:web:530f24d4188e4fea6a76d3"*/
   },
   production: false,
-CAPACITOR_ANDROID_STUDIO_PATH: 'C:\\Users\\USER\\AppData\\Local\\JetBrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\213.7172.25.2113.9014738\\bin',
 
 };
 
