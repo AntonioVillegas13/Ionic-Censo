@@ -121,8 +121,8 @@ export class HomePage implements OnInit{
 
       if (!result) {
         const alert = await this.alertController.create({
-          header: 'Upload failed',
-          message: 'There was a problem uploading your image.',
+          header: 'Carga fallida',
+          message: 'Hubo un problema con la carga de tu imagen.',
           buttons: ['OK'],
         });
         await alert.present();
